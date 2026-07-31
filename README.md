@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x280/F8FAFC/0F172A?text=Naluepon+Sribunrueang" alt="header image" />
+  <img src="[https://via.placeholder.com/1200x280/F8FAFC/0F172A?text=Naluepon+Sribunrueang](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLTN2HZ_qE1glK5HBSqQv0MJzACuR3aV4c5qMgz2-_qZBG3tMaP3XERPlWWI9N)" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Naluepon Sribunrueang <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
