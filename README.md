@@ -16,7 +16,7 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **Naluepon.sbr@gmail.com** | [Github](⟪[url](https://github.com/notzaa8765)⟫)
+- 📫  Reach me: **Naluepon.sbr@gmail.com** | [Github([url](https://github.com/notzaa8765))]
 
 ---
 
