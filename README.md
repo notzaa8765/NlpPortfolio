@@ -40,7 +40,7 @@ I like turning ideas into real products, from designing interfaces to developing
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **copdcare** | Next.js · Flutter · MySQL · Spring Boot | A platform for monitoring patients with Chronic Obstructive Pulmonary Disease (COPD) | [Repo](⟪url⟫) |
+| **copdcare** | Next.js · Flutter · MySQL · Spring Boot | A platform for monitoring patients with Chronic Obstructive Pulmonary Disease (COPD) | [Repo](https://github.com/notzaa8765/copdcare) |
 
 ---
 
