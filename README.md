@@ -18,7 +18,7 @@ I like turning ideas into real products, from designing interfaces to developing
 
 - 🌱 I’m currently learning **Flutter, Next.js, Spring Boot, and more**
 - 🛠 Daily driver stack: **Dart, Java, JavaScript • Flutter • Spring Boot • Node.js**
-- 🎯 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**
+- 🎯 Goal: 
 - 📫 Reach me: **Naluepon.sbr@gmail.com** | [GitHub](https://github.com/notzaa8765)
 
 ---
