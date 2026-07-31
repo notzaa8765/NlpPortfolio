@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1053456062147219527/1532674736738406581/github-header-banner.png?ex=6a6db614&is=6a6c6494&hm=22e296c36ea3ea5123b3853db6c06a2f793e769bfb769bfd5e2d3e5df1e2ef66&" alt="header image" />
+  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2048&auto=format&fit=crop" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Naluepon Sribunrueang <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
